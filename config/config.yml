@@ -1,0 +1,24 @@
+test1:
+#    phone: 9YJNW17909017247
+#    phone: LE67A06290366048
+#    phone: 14efbeb5
+    #Vivo xplay6
+#    phone: 33ea8e00
+    phone: 41ace78b7d53
+    #    Oppo R9s
+#    phone: 14efbeb5
+#    platformVersion: 7.1.2
+#    apk_name: app-release.apk
+    #oppo
+#    phone: NVDQI7OB99999999
+#    phone: 41ace78b7d53
+    #魅族5
+#    phone: 85GABM9VNZ9C
+    #小米5x
+#    phone: 007eb32e0804
+    apk_name: app-debug_0911.apk
+    package_name: com.langlib.ncee
+    exec_count: 1
+    monkey_count: 20000
+
+#    phone: LE67A06290366048

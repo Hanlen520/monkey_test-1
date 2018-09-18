@@ -1,0 +1,1 @@
+java -jar .\tools\chkbugreport.jar .\report\bug_report_8BN0217606003525.txt
